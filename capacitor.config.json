@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Finance Tracking System",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

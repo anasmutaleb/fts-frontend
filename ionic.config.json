@@ -1,0 +1,8 @@
+{
+  "name": "Finance Tracking System",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "fbb48cf1"
+}
